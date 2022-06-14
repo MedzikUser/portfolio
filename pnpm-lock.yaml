@@ -2,7 +2,7 @@ lockfileVersion: 5.4
 
 specifiers:
   '@types/node': 17.0.24
-  '@types/react': 17.0.45
+  '@types/react': 18.0.12
   '@types/styled-components': 5.1.25
   eslint: 8.17.0
   eslint-config-next: 12.1.6
@@ -22,7 +22,7 @@ dependencies:
 
 devDependencies:
   '@types/node': 17.0.24
-  '@types/react': 17.0.45
+  '@types/react': 18.0.12
   '@types/styled-components': 5.1.25
   eslint: 8.17.0
   eslint-config-next: 12.1.6_ul2x2elfajydl542goycjeu55u
@@ -372,7 +372,7 @@ packages:
   /@types/hoist-non-react-statics/3.3.1:
     resolution: {integrity: sha512-iMIqiko6ooLrTh1joXodJK5X9xeEALT1kM5G3ZLhD3hszxBdIEd5C75U834D9mLcINgD4OyZf5uQXjkuYydWvA==}
     dependencies:
-      '@types/react': 17.0.45
+      '@types/react': 18.0.12
       hoist-non-react-statics: 3.3.2
     dev: true
 
@@ -388,8 +388,8 @@ packages:
     resolution: {integrity: sha512-JCB8C6SnDoQf0cNycqd/35A7MjcnK+ZTqE7judS6o7utxUCg6imJg3QK2qzHKszlTjcj2cn+NwMB2i96ubpj7w==}
     dev: true
 
-  /@types/react/17.0.45:
-    resolution: {integrity: sha512-YfhQ22Lah2e3CHPsb93tRwIGNiSwkuz1/blk4e6QrWS0jQzCSNbGLtOEYhPg02W0yGTTmpajp7dCTbBAMN3qsg==}
+  /@types/react/18.0.12:
+    resolution: {integrity: sha512-duF1OTASSBQtcigUvhuiTB1Ya3OvSy+xORCiEf20H0P0lzx+/KeVsA99U5UjLXSbyo1DRJDlLKqTeM1ngosqtg==}
     dependencies:
       '@types/prop-types': 15.7.5
       '@types/scheduler': 0.16.2
@@ -404,7 +404,7 @@ packages:
     resolution: {integrity: sha512-fgwl+0Pa8pdkwXRoVPP9JbqF0Ivo9llnmsm+7TCI330kbPIFd9qv1Lrhr37shf4tnxCOSu+/IgqM7uJXLWZZNQ==}
     dependencies:
       '@types/hoist-non-react-statics': 3.3.1
-      '@types/react': 17.0.45
+      '@types/react': 18.0.12
       csstype: 3.1.0
     dev: true
 
