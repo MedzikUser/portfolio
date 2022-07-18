@@ -10,7 +10,7 @@
     "format": "prettier --write --plugin-search-dir=. ."
   },
   "devDependencies": {
-    "@sveltejs/vite-plugin-svelte": "1.0.0-next.49",
+    "@sveltejs/vite-plugin-svelte": "1.0.1",
     "@tsconfig/svelte": "3.0.0",
     "prettier": "2.7.1",
     "prettier-plugin-svelte": "2.7.0",
